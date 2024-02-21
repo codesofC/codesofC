@@ -11,7 +11,7 @@ I'm actually a FrontEnd Developer based in Brasil.
 ## 📦 Skillset
 Language: `Javascript` `TypeScript`
 
-FrontEnd Developpement: `React` `Next.js` `Tailwind CSS` `Bootstrap` `Framer-Motion`
+FrontEnd Developpement: `React` `Next.js` `Tailwind CSS` `Bootstrap` `Framer-Motion` `SASS`
 
 Version Control: `Git` `GitLab`
 
