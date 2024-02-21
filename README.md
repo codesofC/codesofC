@@ -22,6 +22,7 @@ Others: `Redux` `Zustand` `Shadcn-UI` `Rest-API` `Firebase` `NextAuth` `Clerk`
 * Movies
 * Animes
 * Music
+* Football
 
 ## 📪 Contact
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/judelininelus/)
