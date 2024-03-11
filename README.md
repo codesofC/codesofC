@@ -32,8 +32,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codesofc&" alt="codesofc" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesofc&show_icons=true&locale=en&layout=compact" alt="codesofc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codesofc&show_icons=true&locale=en" alt="codesofc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codesofc&" alt="codesofc" /></p>
