@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hello world👋, I'm Judelin Inélus</h1>
 <h3 align="center">I'm a passionate of the programation universe 🔭.</h3>
-<img align="right" alt="coding" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gifhttps://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" />
+<img align="right" alt="coding" src="https://github.com/codesofC/codesofC/assets/76754023/d9ffba6e-dbdd-4c03-9283-136f3174688b" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codesofc&label=Profile%20views&color=0e75b6&style=flat" alt="codesofc" /> </p>
 
