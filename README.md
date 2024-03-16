@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello world👋, Sou Judelin Inélus</h1>
-<h3 align="center">Sou um apaixonado do universo de programação 🔭.</h3>
+<h3 align="center">Sou um apaixonado do universo da programação 🔭.</h3>
 <img align="right" alt="coding" width="200" src="https://github.com/codesofC/codesofC/assets/76754023/d9ffba6e-dbdd-4c03-9283-136f3174688b" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codesofc&label=Profile%20views&color=0e75b6&style=flat" alt="codesofc" /> </p>
