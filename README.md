@@ -15,7 +15,7 @@
 
 - 📄 Sabe sobre mim e minhas experiências [aqui](https://www.judelininelus.com/)
 
-- ⚡ Para me divertir: **Series | Filmes | Animes | Musicas | Futebol**
+- ⚡ Para me divertir: **TV Shows | Musicas | Futebol**
 
 <h3 align="left">Conectar conmigo:</h3>
 <p align="left">
