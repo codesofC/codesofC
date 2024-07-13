@@ -29,7 +29,7 @@ I am, **actually**, a FrontEnd Developer who possess a profound passion for the 
 #### Frameworks and Libraries
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,sass)
 #### Tools and Platforms
-![My Skills](https://skillicons.dev/icons?i=github,git,firebase,appwrite,figma,aws,redux)
+![My Skills](https://skillicons.dev/icons?i=git,firebase,appwrite,figma,aws,redux)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesofc&show_icons=true&locale=en&layout=compact" alt="codesofc" /></p>
 
